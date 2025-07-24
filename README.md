@@ -10,7 +10,7 @@ FileMate is an advanced file management automation tool designed to streamline a
 - **File Encryption** – Secure your files with robust encryption mechanisms.
 - **Bulk Rename** – Rename multiple files with customizable patterns.
 
-We are continuously working on improving FileMate and will try to add more features in future updates.
+We will try to add more features in future updates.
 
 ---
 Made with ❤️ by Mohamed Thahir & Mohamed Waseem
